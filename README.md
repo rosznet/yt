@@ -1,9 +1,1 @@
-
-| Name | Link  |
-| :---:   | :-: |
-| Seconds | 301 |
-
-_Python: http://www.python.org/
-
-External hyperlinks, like `Python
-<http://www.python.org/>`_.
+[I'm an inline-style link](https://www.google.com)
