@@ -1,14 +1,6 @@
-=====  =====  ======
-   Inputs     Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
 
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
+| Name | Link  |
+| :---:   | :-: |
+| Seconds | 301 |
+
+_Python: http://www.python.org/
