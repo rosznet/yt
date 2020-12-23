@@ -1,18 +1,3 @@
-[JUG Poznań](https://www.youtube.com/channel/UCNQqIfvcYb1nWNFP-X1woAQ/videos)<br/>
-[JUG Torun](https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg/videos)<br/>
-[JUG Ludz](https://www.youtube.com/user/juglodz/videos)<br/>
-[Java One](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g)<br/>
-[Java YT](https://www.youtube.com/user/java)<br/>
-[Confitura](https://www.youtube.com/user/confiturapl/playlists)<br/>
-[JUG 3miasto](https://www.youtube.com/channel/UCU5x5RmlIUUTyZIQKZkXHUw/videos)<br/>
-
-[Szajbajk](https://www.youtube.com/channel/UCj_XEf7oed3iSWHbUCWsgGw/videos)<br/>
-[Rowerowe porady](https://www.youtube.com/user/roweroweporady/videos)<br/>
-[dobrerowery.pl](https://www.youtube.com/channel/UCgbnwxGAINTV2CCK1WWtiAQ/videos)<br/>
-[On the bike](https://www.youtube.com/user/onthebikedotcom/videos)<br/>
-[Dirt It More](https://www.youtube.com/c/DirtItMore/videos)<br/>
-[Taba na rowerze](https://www.youtube.com/channel/UCYUxfC6LFeVAYrTXpisrVJA/videos)<br/>
-
 [Capgemini Polska](https://www.youtube.com/channel/UCgOGj-zvVJAOG8hecLH3oMA/videos)<br/>
 [PROIDEA Events](https://www.youtube.com/user/PROIDEAconferences/videos)<br/>
 [Przemek Bykowski](https://www.youtube.com/c/PrzemekBykowski/videos)<br/>
