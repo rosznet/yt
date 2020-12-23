@@ -8,7 +8,6 @@ Rower                                                                           
 [Taba na rowerze](https://www.youtube.com/channel/UCYUxfC6LFeVAYrTXpisrVJA/videos)        | [Java One](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g)                 | [Programistą Wymiataczem](https://www.youtube.com/channel/UCAui1BOGjOPM-ur9Zxtye_Q/videos)
 [Zielony F16](https://www.youtube.com/user/ZielonyF16/videos)                             | [Java YT](https://www.youtube.com/user/java)                                         | [Przemek Bykowski](https://www.youtube.com/c/PrzemekBykowski/videos)
 
-
 [HRejterzy](https://www.youtube.com/c/HRejterzy/videos)<br/>
 
 [Polimaty](https://www.youtube.com/user/Polimaty/videos)<br/>
