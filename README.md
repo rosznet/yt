@@ -37,7 +37,6 @@ Rower                                                                           
 [Klawiter](https://www.youtube.com/channel/UCLr4hMhk_2KE0GUBSBrspGA/videos)<br/>
 [SekurakTV](https://www.youtube.com/channel/UCfxk5idSdKXTEqAOa8YXIgw/videos)<br/>
 [Test Hub PL](https://www.youtube.com/user/TestHubPL/videos)<br/>
-[benchmark.pl](https://www.youtube.com/user/benchmarkpl/videos)<br/>
 [!Gadżet4u](https://www.youtube.com/channel/UCkfLvhUZPltL-1hFdwP0Cgg/videos)<br/>
 [TO JUZ Jutro](https://www.youtube.com/channel/UCv9wKjBogC5AVG54s_Imn0A/videos)<br/>
 [Urbanski](https://www.youtube.com/user/twardyreset/videos)<br/>
