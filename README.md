@@ -15,7 +15,8 @@ Rower                                                                           
 [nurkiewicz](https://www.nurkiewicz.com/)<br/>
 [blogprogramisty](https://blogprogramisty.net/)<br/>
 [samouczekprogramisty](https://www.samouczekprogramisty.pl/)<br/>
-[programistanaswoim](https://programistanaswoim.pl/)
+[programistanaswoim](https://programistanaswoim.pl/)<br/>
+[devenv](https://devenv.pl)<br/>
 
 [HRejterzy](https://www.youtube.com/c/HRejterzy/videos)<br/>
 
