@@ -9,17 +9,18 @@ Rower                                                                           
 [Dirt It More](https://www.youtube.com/c/DirtItMore/videos)                               | [Confitura](https://www.youtube.com/user/confiturapl/playlists)                      | [hello roman](https://www.youtube.com/c/helloroman/videos)
 [Taba na rowerze](https://www.youtube.com/channel/UCYUxfC6LFeVAYrTXpisrVJA/videos)        | [Java One](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g)                 | [Programistą Wymiataczem](https://www.youtube.com/channel/UCAui1BOGjOPM-ur9Zxtye_Q/videos)
 [Zielony F16](https://www.youtube.com/user/ZielonyF16/videos)                             | [Java YT](https://www.youtube.com/user/java)                                         | [Przemek Bykowski](https://www.youtube.com/c/PrzemekBykowski/videos)
+[Dirtowy Bubu](https://www.youtube.com/channel/UCPk8sOlAw5shFML0Lxl4Gog/videos)           | [hello roman](https://www.youtube.com/c/helloroman/videos)                           | 
 
-[jvm-bloggers](https://jvm-bloggers.com/)<br/>
-[strefakodera](https://strefakodera.pl/)<br/>
-[nurkiewicz](https://www.nurkiewicz.com/)<br/>
-[blogprogramisty](https://blogprogramisty.net/)<br/>
-[samouczekprogramisty](https://www.samouczekprogramisty.pl/)<br/>
-[programistanaswoim](https://programistanaswoim.pl/)<br/>
-[devenv](https://devenv.pl)<br/>
+[bikeWorld.pl](https://www.youtube.com/user/bikeworldPL/videos)<br/>
+[E-SzajBajk](https://www.youtube.com/channel/UCcrmlsGgp8E1aAQDy0GWlpw/videos)<br/>
+[airbike.pl](https://www.youtube.com/c/airbikecompl/videos)<br/>
+[sprint-rowery.pl](https://www.youtube.com/channel/UCyIvtTZmgL1gj0Vvo48TLqA/videos)<br/>
+[VegeReggae](https://www.youtube.com/c/VegeReggae/videos)<br/>
+[bikeshow.cc](https://www.youtube.com/c/bikeshowcc/videos)<br/>
 
+[Zachar OFF](https://www.youtube.com/c/ZacharOFF/videos)<br/>
+[Tam gdzie dredy poniosą](https://www.youtube.com/channel/UCZjwCqGo3qLPwFMjrNnCAnQ/videos)<br/>
 [HRejterzy](https://www.youtube.com/c/HRejterzy/videos)<br/>
-
 [Polimaty](https://www.youtube.com/user/Polimaty/videos)<br/>
 [Maciej Wieczorek](https://www.youtube.com/c/MaciejWieczorek/videos)<br/>
 [Abstrachuje](https://www.youtube.com/user/AbstrachujeTV/videos)<br/>
