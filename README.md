@@ -18,6 +18,12 @@ Rower                                                                           
 [VegeReggae](https://www.youtube.com/c/VegeReggae/videos)<br/>
 [bikeshow.cc](https://www.youtube.com/c/bikeshowcc/videos)<br/>
 
+[Good Times Bad Times](https://www.youtube.com/c/GoodTimesBadTimesPL/videos)<br/>
+[Bez sensu](https://www.youtube.com/c/BezSensuu/videos)<br/>
+[Damian Olszewski](https://www.youtube.com/c/DamianOlszewskiPraktycznieopieniądzach/videos)<br/>
+[Złomnik](https://www.youtube.com/c/Złomnik_official/videos)<br/>
+[Motobieda](https://www.youtube.com/c/MotoBieda/videos)<br/>
+
 [Zachar OFF](https://www.youtube.com/c/ZacharOFF/videos)<br/>
 [Tam gdzie dredy poniosą](https://www.youtube.com/channel/UCZjwCqGo3qLPwFMjrNnCAnQ/videos)<br/>
 [HRejterzy](https://www.youtube.com/c/HRejterzy/videos)<br/>
