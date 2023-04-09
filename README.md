@@ -86,15 +86,14 @@ DOC<br/>
 
 [Marcin Iwuć](https://www.youtube.com/c/MarcinIwućFBO/videos)<br/>
 
-Rower                                                                                     | Java                                                                                 | Java
------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------
-[Szajbajk](https://www.youtube.com/channel/UCj_XEf7oed3iSWHbUCWsgGw/videos)               | [JUG Poznań](https://www.youtube.com/channel/UCNQqIfvcYb1nWNFP-X1woAQ/videos)        | [Capgemini Polska](https://www.youtube.com/channel/UCgOGj-zvVJAOG8hecLH3oMA/videos)
-[Rowerowe porady](https://www.youtube.com/user/roweroweporady/videos)                     | [JUG Torun](https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg/videos)         | [PROIDEA Events](https://www.youtube.com/user/PROIDEAconferences/videos)
-[dobrerowery.pl](https://www.youtube.com/channel/UCgbnwxGAINTV2CCK1WWtiAQ/videos)         | [JUG Ludz](https://www.youtube.com/user/juglodz/videos)                              | [GFT Group](https://www.youtube.com/c/Gft_Group/videos)
-[On the bike](https://www.youtube.com/user/onthebikedotcom/videos)                        | [JUG 3miasto](https://www.youtube.com/channel/UCU5x5RmlIUUTyZIQKZkXHUw/videos)       | [CodeGym](https://www.youtube.com/channel/UCkrztSaBYw1aZO8a9lB9ykA/videos)
-[Dirt It More](https://www.youtube.com/c/DirtItMore/videos)                               | [Confitura](https://www.youtube.com/user/confiturapl/playlists)                      | [hello roman](https://www.youtube.com/c/helloroman/videos)
-[Taba na rowerze](https://www.youtube.com/channel/UCYUxfC6LFeVAYrTXpisrVJA/videos)        | [Java One](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g)                 | [Programistą Wymiataczem](https://www.youtube.com/channel/UCAui1BOGjOPM-ur9Zxtye_Q/videos)
-[Zielony F16](https://www.youtube.com/user/ZielonyF16/videos)                             | [Java YT](https://www.youtube.com/user/java)                                         | [Przemek Bykowski](https://www.youtube.com/c/PrzemekBykowski/videos)
-[Dirtowy Bubu](https://www.youtube.com/channel/UCPk8sOlAw5shFML0Lxl4Gog/videos)           | [hello roman](https://www.youtube.com/c/helloroman/videos)                           | 
+Java                                                                                 | Java
+------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------
+[JUG Poznań](https://www.youtube.com/channel/UCNQqIfvcYb1nWNFP-X1woAQ/videos)        | [Capgemini Polska](https://www.youtube.com/channel/UCgOGj-zvVJAOG8hecLH3oMA/videos)
+[JUG Torun](https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg/videos)         | [PROIDEA Events](https://www.youtube.com/user/PROIDEAconferences/videos)
+[JUG Ludz](https://www.youtube.com/user/juglodz/videos)                              | [GFT Group](https://www.youtube.com/c/Gft_Group/videos)
+[JUG 3miasto](https://www.youtube.com/channel/UCU5x5RmlIUUTyZIQKZkXHUw/videos)       | [CodeGym](https://www.youtube.com/channel/UCkrztSaBYw1aZO8a9lB9ykA/videos)
+[Confitura](https://www.youtube.com/user/confiturapl/playlists)                      | [hello roman](https://www.youtube.com/c/helloroman/videos)
+[Java One](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g)                 | [Programistą Wymiataczem](https://www.youtube.com/channel/UCAui1BOGjOPM-ur9Zxtye_Q/videos)
+[Java YT](https://www.youtube.com/user/java)                                         | [Przemek Bykowski](https://www.youtube.com/c/PrzemekBykowski/videos)
 
 [Mapy](https://wego.here.com)<br/>
