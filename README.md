@@ -28,6 +28,9 @@ PODRÓŻE<br/>
 [Anitka](https://www.youtube.com/@anitawu/videos)<br/>
 [Nejtan](https://www.youtube.com/@swiatwedlugnejtana/videos)<br/>
 [Wojownika](https://www.youtube.com/@PodrozeWojownika/videos)<br/>
+[MyDreamland Ula](https://www.youtube.com/@MyDreamland/videos)<br/>
+[Gazela](https://www.youtube.com/@GazelawLaponii/videos)<br/>
+[Jakub Kotuła Fit on Trip](https://www.youtube.com/@Fitutravel/videos)<br/>
 [Przez Świat Na Fazie](https://www.youtube.com/channel/UC8uYStXS2ElBFLZVfuYzIxg/videos)<br/>
 [Jachtem przez swiat](https://www.youtube.com/@jachtemprzezswiat/videos)<br/>
 [BezPlanu](https://www.youtube.com/@BezPlanu/videos)<br/>
@@ -69,6 +72,8 @@ TECH<br/>
 DOC<br/>
 [Kulczyński](https://www.youtube.com/@drbartekpl/videos)<br/>
 [Skoczylas](https://www.youtube.com/@MarekSkoczylasPL/videos)<br/>
+[Motywator Dietetyczny](https://www.youtube.com/@MotywatorDietetyczny/videos)<br/>
+[Piotr 'Szmexy' Tomaszewski](https://www.youtube.com/@PiotrTomaszewskiSzmexy/videos)<br/>
 <br/>
 <br/>
 [HRejterzy](https://www.youtube.com/c/HRejterzy/videos)<br/>
